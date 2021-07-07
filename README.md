@@ -12,8 +12,7 @@ Included files:
   	      	logs real-time temperature measured by BBG temperature
 		sensor(v1.2) and receives and processes TLS encrypted commands
 		from the lever.cs.ucla.edu TLS server(port 19000).
-* Makefile - contains targets: build(default), dist, and clean.
-* README - this file
+* Makefile - contains targets: build(default), dist, and clean.  
 
 
 Credits:
